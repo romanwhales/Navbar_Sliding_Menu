@@ -44,6 +44,7 @@
 
 #second-nav a{
     display: block;
+    display: inline;
 }
 
 #nav-toggle{
